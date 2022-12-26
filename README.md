@@ -11,7 +11,7 @@ I’m Satvik.
 
 👨‍💻 My main expertise is in algorithms, scraping and distributed backend systems, although I have learn quite a bit of frontend as well recently while building ecohunt.
 
-⚙️ I am fluent with Java, Go, Javascript, C++.
+⚙️ I am fluent with Java, Go, Javascript, C++, Python.
 
 🌱 I am currently learning Rust.
 
