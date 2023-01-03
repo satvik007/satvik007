@@ -21,7 +21,7 @@ I’m Satvik.
 
 👯 I am open to offers or collaborations, if you are an early startup or working on a high impact project.
 
-📫 The best way to track my work is to follow me on Twitter or linkedin. The best way to get in touch is to DM me on Twitter (@realsatvik007) or email me at `satvikchoudhary[at]gmail[dot]com`.
+📫 The best way to track my work is to follow me on Twitter or linkedin. The best way to get in touch is to DM me on Twitter (@realsatvik007).
 
 📫 You can find me on:
 
