@@ -13,7 +13,7 @@ I’m Satvik.
 
 ⚙️ I am fluent with Java, Go, Javascript, C++, Python.
 
-🌱 I am currently learning Rust.
+🌱 I am currently learning Rust 🦀.
 
 💬 You can discuss with me anything about Software development, AI. If you are facing any challenges or just in general.
 
