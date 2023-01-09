@@ -28,8 +28,9 @@ I’m Satvik.
 - Twitter (@realsatvik007)
 - GitHub (@satvik007)
 - Linkedin (https://www.linkedin.com/in/satvik-choudhary/)
+- Personal site (https://satvik007.github.io) (Newly created so not much is there)
 
 😄 Pronouns: he/him
 
-⚡ Question: I am learning a music instrument. Can you guess what it is!
+⚡ Question: I am learning a music instrument. Can you guess what it is?
 
