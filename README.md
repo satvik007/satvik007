@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m Satvik.
 
-🏡 I am a Jaipur native, passionate about programming 🖥️
+🏡 I am from Jaipur, passionate about programming
 
 🔭 I work at Hypersequent as a Software Engineer, our mission is to make software systems more reliable.
 
@@ -9,17 +9,17 @@ I’m Satvik.
 
 🎓 I graduated from Indian Institute of Technology, Palakkad as a Computer Science and engineering major.
 
-👨‍💻 My main expertise is in algorithms, scraping and distributed backend systems, although I have learn quite a bit of frontend as well recently while building ecohunt.
+👨‍💻 Main expertise is in algorithms, scraping and distributed backend systems, although I have learnt quite a bit of frontend as well recently while building ecohunt.
 
-⚙️ I am fluent with Java, Go, Javascript, C++, Python.
+⚙️ Fluent with Java, Go, Javascript, C++, Python.
 
-🌱 I am currently learning Rust 🦀.
+🌱 Currently learning Rust 🦀.
 
-💬 You can discuss with me anything about web, Software development, developments in AI.
+💬 Discuss with me Software development, AI.
 
-🙋 You can ask me about Headphones, music recommendations, non-fiction book recommendations, chess.
+🙋 Ask me about Headphones, music, non-fiction book recommendations, chess.
 
-👯 I am open to collaborations.
+👯 Open to collaborations.
 
 📫 The best way to track my work is to follow me on Twitter. The best way to get in touch is to DM me on Twitter (@realsatvik007). You can find me on:
 
@@ -30,4 +30,3 @@ I’m Satvik.
 😄 Pronouns: he/him
 
 ⚡ Question: I am learning a music instrument. Can you guess what it is?
-
