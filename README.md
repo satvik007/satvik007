@@ -3,11 +3,11 @@ I’m Satvik.
 
 🏡 I am a Jaipur native, passionate about programming 🖥️
 
-🔭 I’m building an ecommerce search and discovery platform - https://ecohunt.org.
+🔭 I work at Hypersequent as a Software Engineer, our mission is to make software systems more reliable.
 
-🥅 My goal is to improve search experience in ecommerce that traditional search engines do not provide.
+🏢 I have previously worked on my own project https://ecohunt.org full time. Before that I was a Senior Software Engineer at Yodlee.
 
-🏢 I was most recently a Senior Software Engineer at Yodlee. Before that, I graduated from Indian Institute of Technology, Palakkad as a Computer Science and engineering major.
+🎓 I graduated from Indian Institute of Technology, Palakkad as a Computer Science and engineering major.
 
 👨‍💻 My main expertise is in algorithms, scraping and distributed backend systems, although I have learn quite a bit of frontend as well recently while building ecohunt.
 
@@ -15,20 +15,18 @@ I’m Satvik.
 
 🌱 I am currently learning Rust 🦀.
 
-💬 You can discuss with me anything about Software development, AI. If you are facing any challenges or just in general.
+💬 You can discuss with me anything about web, Software development, developments in AI.
 
 🙋 You can ask me about Headphones, music recommendations, non-fiction book recommendations, chess.
 
-👯 I am open to offers or collaborations, if you are an early startup or working on a high impact project.
+👯 I am open to collaborations.
 
-📫 The best way to track my work is to follow me on Twitter or linkedin. The best way to get in touch is to DM me on Twitter (@realsatvik007).
-
-📫 You can find me on:
+📫 The best way to track my work is to follow me on Twitter. The best way to get in touch is to DM me on Twitter (@realsatvik007). You can find me on:
 
 - Twitter (@realsatvik007)
 - GitHub (@satvik007)
-- Linkedin (https://www.linkedin.com/in/satvik-choudhary/)
 - Personal site (https://satvik007.github.io)
+
 😄 Pronouns: he/him
 
 ⚡ Question: I am learning a music instrument. Can you guess what it is?
